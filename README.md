@@ -1,4 +1,4 @@
-# Cálculos:1234:
+# Cálculos :1234:
 
 Aplicação C# para efetuar diversos tipos de cálculos.
  
